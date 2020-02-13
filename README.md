@@ -1,2 +1,2 @@
-# kledisom.github.io/calculator
+# http://kledisom.github.io/calculator
 Projeto com React-JS
